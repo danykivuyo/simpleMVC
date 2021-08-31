@@ -10,6 +10,7 @@ Laravel.
 This simpleMVC is purely for educational purpose
 
 ################################################################################
+
 want to run this framework on your machine?
 then the following simple configurations should be made.
 ################################################################################
